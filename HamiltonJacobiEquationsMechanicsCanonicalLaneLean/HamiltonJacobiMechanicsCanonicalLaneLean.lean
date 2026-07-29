@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace HamiltonJacobiMechanicsCanonicalLaneLean
+
+end HamiltonJacobiMechanicsCanonicalLaneLean
+end HautevilleHouse
